@@ -3,6 +3,16 @@
   "name": "7a5ec6-Search",
   "version": "0.4",
   "description": "Adds the 7a5ec6-Search Engine",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@7a5ec6",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
   "icons": {
     "48": "icons/favicon.svg",
     "96": "icons/favicon.svg"
